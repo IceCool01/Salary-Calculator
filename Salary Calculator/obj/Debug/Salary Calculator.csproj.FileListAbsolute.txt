@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\Salary Calculator\Salary Calculator\bin\Debug\Salary Calculator.exe.config
+C:\Users\admin\source\repos\Salary Calculator\Salary Calculator\bin\Debug\Salary Calculator.exe
+C:\Users\admin\source\repos\Salary Calculator\Salary Calculator\bin\Debug\Salary Calculator.pdb
+C:\Users\admin\source\repos\Salary Calculator\Salary Calculator\obj\Debug\Salary Calculator.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Salary Calculator\Salary Calculator\obj\Debug\Salary Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\Salary Calculator\Salary Calculator\obj\Debug\Salary_Calculator.Form1.resources
+C:\Users\admin\source\repos\Salary Calculator\Salary Calculator\obj\Debug\Salary_Calculator.Properties.Resources.resources
+C:\Users\admin\source\repos\Salary Calculator\Salary Calculator\obj\Debug\Salary Calculator.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Salary Calculator\Salary Calculator\obj\Debug\Salary Calculator.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Salary Calculator\Salary Calculator\obj\Debug\Salary Calculator.exe
+C:\Users\admin\source\repos\Salary Calculator\Salary Calculator\obj\Debug\Salary Calculator.pdb
